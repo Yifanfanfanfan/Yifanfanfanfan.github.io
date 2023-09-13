@@ -34,10 +34,10 @@ links:
     url: /
   - title: Resume
     url: /file/Yifan_Gong_Resume.pdf
-  - title: Publications
+  - title: Selected Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  - title: Activities&Services
+    url: /activities/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Fort_Wayne
