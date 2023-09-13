@@ -11,7 +11,7 @@ owner:
  # bio:
   email: gong.yifa@northeastern.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: GuangLun2000
+  # github: GuangLun2000
   linkedin: yifan-gong-3059b8132
   scholar: https://scholar.google.com/citations?user=U_gevVgAAAAJ&hl=en
   # instagram: lancecai2002
@@ -46,7 +46,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: America/Fort_Wayne
 future: true
 highlighter: rouge
 # markdown: kramdown
