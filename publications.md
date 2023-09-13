@@ -8,7 +8,7 @@ Lastest Update: 27th Aug 2023&nbsp;
 
 ## Conference Paper
 
-- Yushu Wu*, **Yifan Gong***, Zheng Zhan, and et. al.,"MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference", in  International Conference on Computer-Aided Design (ICCAD), 2023. <br>
+- Yushu Wu*, **Yifan Gong** *, Zheng Zhan, and et. al.,"MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference", in  International Conference on Computer-Aided Design (ICCAD), 2023. <br>
 
 - **Yifan Gong**, Pu Zhao, Zheng Zhan, et. al., "Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge", in Design Automation Conference (DAC), 2023. <br>
 
@@ -17,10 +17,10 @@ for Edge Devices with Dynamic Power Management"](https://arxiv.org/pdf/2212.0512
 
 - **Yifan Gong**, Yuguang Yao, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, Sijia Liu, ["Reverse Engineering of Imperceptible Adversarial Image Perturbations"](https://arxiv.org/pdf/2203.14145.pdf), in International Conference on Learning Representations (ICLR), 2022. <br>
 
-- Yushu Wu*, **Yifan Gong***, Pu Zhao, et al, ["Compiler-Aware Neural Architecture Search for On-Mobile
+- Yushu Wu*, **Yifan Gong** *, Pu Zhao, et al, ["Compiler-Aware Neural Architecture Search for On-Mobile
 Real-time Super-Resolution"](https://arxiv.org/pdf/2207.12577.pdf), in European Conference on Computer Vision (ECCV), 2022. <br>
 
-- Zheng Zhan*, **Yifan Gong***, Pu Zhao, et al, ["Achieving on-Mobile Real-Time Super-Resolution with Neural
+- Zheng Zhan*, **Yifan Gong** *, Pu Zhao, et al, ["Achieving on-Mobile Real-Time Super-Resolution with Neural
 Architecture and Pruning Search"](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Achieving_On-Mobile_Real-Time_Super-Resolution_With_Neural_Architecture_and_Pruning_Search_ICCV_2021_paper.pdf), in International Conference on Computer Vision (ICCV), 2021. <br>
 
 - **Yifan Gong**, Baochun Li, Ben Liang, Zheng Zhan, ["Chic: Experience-driven Scheduling in Machine
