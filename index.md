@@ -32,12 +32,11 @@ layout: page
 <table rules="none">
 <tr>
 <td>
-  <img src="images/snap_logo.jpeg" style="zoom:50%"  alt="图片名称"/>
-
+  <img src="images/snap_logo.jpeg" style="zoom:20%"  alt="图片名称"/>
 </td>
 <td>
-  <p>May 2023 - Dec 2023, Snap Inc. , </p>
-  <p>Research Intern</p>
+  <p> Snap Inc., Research Intern, May 2023 - Dec 2023  </p>
+  <p> </p>
 </td>
 </tr>
 </table>    
@@ -47,12 +46,12 @@ layout: page
 <table rules="none">
 <tr>
 <td>
-  <img src="images/ibm_logo.jpeg" style="zoom:50%"  alt="图片名称"/>
+  <img src="images/ibm_logo.jpeg" style="zoom:20%"  alt="图片名称"/>
 
 </td>
 <td>
-  <p>May 2021 - Augest 2021, IBM, </p>
-  <p> Research Intern </p>
+  <p> IBM,  Research Intern, May 2021 - Augest 2021 </p>
+  <p> </p>
 </td>
 </tr>
 </table>    
