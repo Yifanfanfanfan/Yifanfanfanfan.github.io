@@ -27,3 +27,10 @@ layout: page
 ---
 
 ## News and Updates
+
+- **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
+- **Sep 2023:** One paper "HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception" is accepted in NeurIPS'23.
+- **July 2023:** One co-first-authored paper "MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference" is accepted in ICCAD'23.
+- **May 2023:** Glad to receive College of Engineering outstanding TA award.
+- **April 2023:** One paper "DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning" is accpeted in ICML'23.
+- **Feb 2023:** One first-authored paper "Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge" is accepted in DAC'23.
