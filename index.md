@@ -36,7 +36,8 @@ layout: page
 
 </td>
 <td>
-  <p>May 2023 - Dec 2023, Snap Inc. , Research Intern</p>
+  <p>May 2023 - Dec 2023, Snap Inc. , </p>
+  <p>Research Intern</p>
 </td>
 </tr>
 </table>    
@@ -50,7 +51,8 @@ layout: page
 
 </td>
 <td>
-  <p>May 2021 - Augest 2021, IBM, Research Intern</p>
+  <p>May 2021 - Augest 2021, IBM, </p>
+  <p> Research Intern </p>
 </td>
 </tr>
 </table>    
