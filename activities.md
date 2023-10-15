@@ -1,10 +1,13 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /activities/index.html
+title: Activities&Services
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+## Professional Services
+
+- Conference Reviewer: ICLR, NeurIPS, ICCV, CVPR, ISCAS, AICAS.
+
 
 ## Scholarships
 
@@ -43,11 +46,3 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 - Sep 2022：*Nomination for China National Scholarship*
 - June 2022：*Nomination for China Telecom Scholarship*<br>
 
-## Services
-
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
