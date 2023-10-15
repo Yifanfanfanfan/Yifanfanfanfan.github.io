@@ -26,6 +26,43 @@ layout: page
 
 ---
 
+## Professional Experiences
+
+<div align="left">
+<table rules="none">
+<tr>
+<td>
+  <img src="images/snap_logo.jpeg" style="zoom:50%"  alt="图片名称"/>
+
+</td>
+<td>
+  <p>May 2023 - Dec 2023, Snap Inc. , Research Intern</p>
+</td>
+</tr>
+</table>    
+</div>
+
+<div align="left">
+<table rules="none">
+<tr>
+<td>
+  <img src="images/ibm_logo.jpeg" style="zoom:50%"  alt="图片名称"/>
+
+</td>
+<td>
+  <p>May 2021 - Augest 2021, IBM, Research Intern</p>
+</td>
+</tr>
+</table>    
+</div>
+
+
+
+<br>
+
+
+---
+
 ## News and Updates
 
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
