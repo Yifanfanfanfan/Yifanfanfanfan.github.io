@@ -25,7 +25,7 @@ title: Activities&Services
 - ECE Student Fellowship of University of Toronto, 2017-2019
 - Valedictorian of Xidian University, 2017
 - Excellent Graduate of Xidian University (10 of 5180), 2017
-- National Scholarship (1%) 2015, 2016
-- Role Model Outstanding Student 2014, 2015
-- Provincial 1st Prize in CUMCM 2015
+- National Scholarship (1%), 2015, 2016
+- Role Model Outstanding Student, 2014, 2015
+- Provincial 1st Prize in CUMCM, 2015
 
