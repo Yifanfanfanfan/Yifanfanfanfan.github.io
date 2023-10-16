@@ -8,7 +8,14 @@ title: Activities&Services
 
 - Conference Reviewer: ICLR, NeurIPS, ICCV, CVPR, ISCAS, AICAS.
 - Journal Reviewer: TCAD.
+- Tutorial Contributor:  ["Reverse Engineering of Deceptions: Foundations and Applications"](https://sites.google.com/view/cvpr2023red), @ CVPR’23.
 
+
+## Invited Talks
+
+- "Automatic Mapping of the Best-Suited DNN Pruning Schemes for Real-Time Mobile Acceleration", in ROAD4NN @ DAC’21.
+- "A Privacy-Preserving-Oriented DNN Pruning and Mobile Acceleration Framework", @ GLSVLSI’20.
+- "Towards Best Possible Deep Learning Acceleration on the Edge - A Compression-Compilation Co-Design Framework", in MGHPCC @ SC’20.
 
 ## Selected Scholarship, Honors and Awards
 
