@@ -22,7 +22,9 @@
 
   gtag('config', 'G-T5N5JY1E21');
 </script>
-
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
 
 
