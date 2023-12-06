@@ -6,7 +6,7 @@ title: Selected Publications
 
 Lastest Update: 27th Aug 2023&nbsp;  
 
-## Conference Paper
+## Core Conference Paper
 
 - Yushu Wu*, **Yifan Gong** *, Zheng Zhan, and et. al.,"MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference", in  International Conference on Computer-Aided Design (ICCAD), 2023. <br>
 
@@ -27,11 +27,15 @@ Architecture and Pruning Search"](https://openaccess.thecvf.com/content/ICCV2021
 Learning Clusters"](https://www.researchgate.net/profile/Yifan-Gong-4/publication/333790220_Chic_experience-driven_scheduling_in_machine_learning_clusters/links/5e168799a6fdcc2837632815/Chic-experience-driven-scheduling-in-machine-learning-clusters.pdf), in International Symposium on Quality of Service (IWQoS), 2019.
 
 
-## Journal Paper
+## Core Journal Paper
 
 - **Yifan Gong**, Geng Yuan, et al, ["Automatic Mapping of the Best-Suited DNN Pruning Schemes for Real-
 Time Mobile Acceleration"](https://arxiv.org/pdf/2111.11581.pdf), ACM Transactions on Design Automation of Electronic Systems (TODAES), 2021.
 
 - Tong Jian, **Yifan Gong**, et al, ["Radio Frequency Fingerprinting on the Edge"](https://par.nsf.gov/servlets/purl/10293165), IEEE Transactions on Mobile
 Computing, 2021
+
+## Other Publications
+
+
 
