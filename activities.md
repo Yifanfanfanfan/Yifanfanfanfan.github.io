@@ -15,7 +15,7 @@ title: Activities&Services
 
 - "Automatic Mapping of the Best-Suited DNN Pruning Schemes for Real-Time Mobile Acceleration", in ROAD4NN @ DAC’21.
 - "A Privacy-Preserving-Oriented DNN Pruning and Mobile Acceleration Framework", @ GLSVLSI’20.
-- "Towards Best Possible Deep Learning Acceleration on the Edge - A Compression-Compilation Co-Design Framework", in MGHPCC @ SC’20.
+- ["Towards Best Possible Deep Learning Acceleration on the Edge - A Compression-Compilation Co-Design Framework"](https://sc20.mghpcc.org/talk/towards-best-possible-deep-learning-acceleration-on-the-edge-a-compression-compilation-co-design-framework/), in MGHPCC @ SC’20.
 
 ## Selected Scholarship, Honors and Awards
 
