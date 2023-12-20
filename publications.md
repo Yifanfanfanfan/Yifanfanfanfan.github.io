@@ -43,11 +43,11 @@ Computing, 2021
 
 ## Other Publications
 
-- Zifeng Wang*, Zheng Zhan*, **Yifan Gong**, et al, ["DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning"](https://arxiv.org/pdf/2305.00380.pdf), in International Conference on Machine Learning (ICML), 2023.
+- Zifeng Wang *, Zheng Zhan *, **Yifan Gong**, et al, ["DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning"](https://arxiv.org/pdf/2305.00380.pdf), in International Conference on Machine Learning (ICML), 2023.
   
 - Sizhe Chen, Geng Yuan, Xinwen Cheng, **Yifan Gong**, et al, ["Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors"](https://arxiv.org/pdf/2211.12005.pdf), in in International Conference on Learning Representations (ICLR), 2023.
   
-- Zifeng Wang, Zheng Zhan, **Yifan Gong**, et al, ["Sparcl: Sparse continual learning on the edge"](https://proceedings.neurips.cc/paper_files/paper/2022/file/80133d0f6eccaace15508f91e3c5a93c-Paper-Conference.pdf), in Conference on Neural Information Processing Systems (NeurIPS), 2022.
+- Zifeng Wang *, Zheng Zhan *, **Yifan Gong**, et al, ["Sparcl: Sparse continual learning on the edge"](https://proceedings.neurips.cc/paper_files/paper/2022/file/80133d0f6eccaace15508f91e3c5a93c-Paper-Conference.pdf), in Conference on Neural Information Processing Systems (NeurIPS), 2022.
   
 - Xiaolong Ma, Geng Yuan, Zhengang Li, **Yifan Gong**, ["Blcr: Towards real-time dnn execution with block-based reweighted pruning"](https://par.nsf.gov/servlets/purl/10357884), in International Symposium on Quality Electronic Design (ISQED), 2022.
 
