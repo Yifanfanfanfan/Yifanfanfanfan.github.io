@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Project page of E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation.">
+  <meta name="keywords" content="MCDiff, Diffusion, Video">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="eGDOZ_6azobM9Vcl7r072IFo1FJ-TfNvGkmz6YbLCLo" />
+  <title>E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation</title>
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro">
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/icon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">E<sup>2</sup>GAN: Efficient Training of Efficient GANs for Image-to-Image Translation</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://yifanfanfanfan.github.io/">Yifan Gong</a><sup>1,2</sup> &nbsp &nbsp </span>
+            <span class="author-block">
+              <a href="https://zhanzheng8585.github.io/">Zheng Zhan</a><sup>2</i></sup> &nbsp &nbsp </span>
+            <span class="author-block">
+              <a href="https://research.snap.com/team/team-member.html#qing-jin">Qing Jin</a><sup>1</sup> &nbsp &nbsp </span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/yanyu-li-2216aa17b/">Yanyu Li</a><sup>1,2</sup> &nbsp &nbsp </span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/yerlan-idelbayev/">Yerlan Idelbayev</a><sup>1</sup>&nbsp &nbsp</span>
+              <span class="author-block">
+                <a href="https://alvinliu0.github.io/">Xian Liu</a><sup>1</sup>&nbsp &nbsp</span>
+                <span class="author-block">
+                  <a href="https://www.linkedin.com/in/asmekal/">Andrey Zharkov</a><sup>1</sup>&nbsp &nbsp</span>
+                  <span class="author-block">
+                    <a href="https://kfiraberman.github.io/">Kfir Aberman</a><sup>1</sup>&nbsp &nbsp</span>
+                    <span class="author-block">
+                      <a href="http://www.stulyakov.com/">Sergey Tulyakov</a><sup>1</sup>&nbsp &nbsp</span>
+                      <span class="author-block">
+                        <a href="https://web.northeastern.edu/yanzhiwang/">Yanzhi Wang</a><sup>2</sup>&nbsp &nbsp</span>
+                        <span class="author-block">
+                          <a href="https://alanspike.github.io/">Jian Ren</a><sup>1</sup></span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            
+            <span class="author-block"><sup>1</sup>Snap Inc. &nbsp &nbsp </span>
+            <span class="author-block"><sup>2</sup>Northeastern University &nbsp &nbsp </span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2304.14404.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2304.14404"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <!-- Abstract. -->
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            One highly promising direction for enabling flexible real-time on-device image editing is utilizing data distillation by leveraging large-scale text-to-image diffusion models, such as Stable Diffusion, to generate paired datasets used for training generative adversarial networks (GANs). 
+            This approach notably alleviates the stringent requirements typically imposed by high-end commercial GPUs for performing image editing with diffusion models. 
+            However, unlike text-to-image diffusion models, each distilled GAN is specialized for a specific image editing task, necessitating costly training efforts to obtain models for various concepts.
+            In this work, we introduce and address a novel research direction: can the process of distilling GANs from diffusion models be made significantly more efficient?
+            To achieve this goal, we propose a series of innovative techniques.First, we construct a base GAN model with generalized features, adaptable to different concepts through fine-tuning, eliminating the need for training from scratch. Second, we identify crucial layers within the base GAN model and employ Low-Rank Adaptation (LoRA) with a simple yet effective rank search process, rather than fine-tuning the entire base model. Third, we investigate the minimal amount of data necessary for fine-tuning, further reducing the overall training time.
+            Extensive experiments show that we can efficiently empower GANs with the ability to perform real-time high-quality image editing on mobile devices with remarkable reduced training cost and storage for each concept.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <!--/ Abstract. -->    
+
+<section class="hero is-light is-small">
+  <div class="container is-max-desktop">
+    <h2 class="title" style="text-align: center;">E<sup>2</sup>GAN Overview</h2>
+    <center>
+    <video autoplay controls muted loop playsinline height="100%">
+      <source src="./static/videos/e2gan.mp4"
+              type="video/mp4">
+    </video>
+    </center>
+    <p>
+      In terms of training: conventional GAN training, such as pix2pix [1] and pix2pix-zero-distilled that distills Co-Mod-GAN [2] using data from pix2pix-zero [3], requires all the weights trained from scratch, while our efficient training
+      significant reduces the training cost by only fine-tuning 1% weights with only portion of training data. 
+    </p>
+    <p>  
+      In terms of on-device inference: Our efficient on-device model can achieve real-time (30FPS, iPhone 14) runtime and is faster than pix2pix and diffusion model, while the pix2pix-zero-distilled model (Co-Mod-GAN) is not supported on device
+    </p>
+  </div>
+</section>
+<br>
+
+
+<section class="hero is-light is-small">
+<div class="scroll-container" style="margin-top: -1px;">
+ 
+    <img src="./static/images/appendix_1_075.jpg"
+    style="height: 650px"
+    alt="teasor"
+    class="inline"
+    vspace="15">
+
+    <img src="./static/images/appendix_2_075.jpg"
+    style="height: 650px"
+    alt="teasor"
+    class="inline"
+    vspace="15">
+
+    <img src="./static/images/appendix_3_075.jpg"
+    style="height: 650px"
+    alt="teasor"
+    class="inline"
+    vspace="15">
+
+    <img src="./static/images/appendix_4_075.jpg"
+    style="height: 650px"
+    alt="teasor"
+    class="inline"
+    vspace="15">
+
+    <img src="./static/images/experiment_example.jpg"
+    style="height: 650px"
+    alt="teasor"
+    class="inline"
+    vspace="15">
+
+    <img src="./static/images/appendix_5_075.jpg"
+    style="height: 650px"
+    alt="teasor"
+    class="inline"
+    vspace="15">
+  </div>
+</div>
+</section>
+<br>
+
+
+
+
+  <!-- Reference. -->
+  <div class="container is-max-desktop content">
+    <h2 class="title" style="text-align: center;">Reference</h2>
+    <p>[<a href="https://arxiv.org/pdf/1611.07004.pdf">1</a>]&nbsp;Image-to-Image Translation with Conditional Adversarial Networks</p>
+    <p>[<a href="https://arxiv.org/pdf/2103.10428.pdf">2</a>]&nbsp;Large Scale Image Completion via Co-Modulated Generative Adversarial Networks</p>
+    <p>[<a href="https://pix2pixzero.github.io/">3</a>]&nbsp;Zero-shot Image-to-Image Translation</p>
+  </div>
+  <br>
+  <!--/ Reference. -->
+
+  <!-- BibTeX. -->
+  <div class="container is-max-desktop content">
+    <h2 class="title" style="text-align: center;">BibTeX</h2>
+    <pre><code>@article{gong2024e2gan,
+    title   = {E<sup>2</sup>GAN: Efficient Training of Efficient GANs for Image-to-Image Translation},
+    author  = {Gong, Yifan and Zhan, Zheng and Jin, Qing and Li, Yanyu and Idelbayev, Yerlan and Liu, Xian and Zharkov, Andrey and Aberman, Kfir and Tulyakov, Sergey and Wang, Yanzhi and Ren, Jian},
+    journal = {arXiv preprint arXiv:2304.14404},
+    year    = {2024},
+}</code></pre>
+  </div>
+  <!--/ BibTeX. -->
+</section>
+
+
+
+<!-- Footer. -->
+<footer class="footer">
+  <div class="container">
+      <div class="columns is-centered">
+          <div class="column is-8">
+              <div class="content has-text-centered">
+                  <p>
+                      This great <a href="https://github.com/nerfies/nerfies.github.io">template</a> was
+                      originally made by <a href="https://github.com/nerfies/nerfies.github.io">Keunhong Park</a>.
+                  </p>
+              </div>
+          </div>
+      </div>
+  </div>
+</footer>
+<!--/ Footer. -->
+
+</body>
+</html>
