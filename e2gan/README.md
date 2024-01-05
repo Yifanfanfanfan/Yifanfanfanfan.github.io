@@ -1,1 +1,1 @@
-This is my personal website: https://tsaishien-chen.github.io/MCDiff
+This is the website for e2gan: 
