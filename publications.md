@@ -12,7 +12,7 @@ Lastest Update: 6th Dec 2023&nbsp;
 
 ## First-Authored Conference Paper
 
-- **Yifan Gong** *, Yushu Wu *, Zheng Zhan, and et. al., "MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference", in  International Conference on Computer-Aided Design (ICCAD), 2023. <br>
+- **Yifan Gong** *, Yushu Wu *, Zheng Zhan, and et. al., ["MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference"](https://ieeexplore.ieee.org/abstract/document/10323882), in  International Conference on Computer-Aided Design (ICCAD), 2023. <br>
 
 - **Yifan Gong**, Pu Zhao, Zheng Zhan, et. al., ["Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge"](https://ieeexplore.ieee.org/abstract/document/10247713), in Design Automation Conference (DAC), 2023. <br>
 
