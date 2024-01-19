@@ -13,10 +13,10 @@ One highly promising direction for enabling flexible real-time on-device image e
 
 If you find our work useful, please kindly cite as:
 ```
-@article{gong2024e2gan,
-  title   = {E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation},
-  author  = {Gong, Yifan and Zhan, Zheng and Jin, Qing and Li, Yanyu and Idelbayev, Yerlan and Liu, Xian and Zharkov, Andrey and Aberman, Kfir and Tulyakov, Sergey and Wang, Yanzhi and Ren, Jian},
-  journal = {arXiv preprint arXiv:2304.14404},
-  year    = {2024}
+@article{gong20242,
+  title={E $\^{}$\{$2$\}$ $ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation},
+  author={Gong, Yifan and Zhan, Zheng and Jin, Qing and Li, Yanyu and Idelbayev, Yerlan and Liu, Xian and Zharkov, Andrey and Aberman, Kfir and Tulyakov, Sergey and Wang, Yanzhi and others},
+  journal={arXiv preprint arXiv:2401.06127},
+  year={2024}
 }
 ```
