@@ -12,7 +12,7 @@ Lastest Update: 13rd Feb 2024&nbsp;
 
 ## First-Authored Conference Paper
 
-- **Yifan Gong**, Yushu Wu, Zheng Zhan, Pu Zhao, Liangkai Liu, Chao Wu, Xulong Tang, Yanzhi Wang ["LOTUS: Learning-based Online Thermal and Latency Variation Management for Two-stage Detectors on Edge Devices"](https://ieeexplore.ieee.org/abstract/document/10323882), in Design Automation Conference (DAC), 2024. <br>
+- **Yifan Gong**, Yushu Wu, Zheng Zhan, Pu Zhao, Liangkai Liu, Chao Wu, Xulong Tang, Yanzhi Wang "LOTUS: Learning-based Online Thermal and Latency Variation Management for Two-stage Detectors on Edge Devices", in Design Automation Conference (DAC), 2024. <br>
 
 - **Yifan Gong** *, Yushu Wu *, Zheng Zhan, Geng Yuan, Yanyu Li, Qi Wang, Chao Wu, Yanzhi Wang, ["MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference"](https://ieeexplore.ieee.org/abstract/document/10323882), in  International Conference on Computer-Aided Design (ICCAD), 2023. <br>
 
