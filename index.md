@@ -7,8 +7,7 @@ layout: page
 
 Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/#_ga=2.133348103.863566394.1694570386-1581901161.1692209067). She received the B.S. degree (with highest honor) in Telecommunications Engineering from Xidian University in 2017 and the M.A.Sc. degree (with fellowship) in Computer Engineering from the University of Toronto in 2019. Her research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations by a hardware and software co-design approach. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks such as large-scale models for AI-generated content. Yifan's works (first-authored) have been published in top-tier conferences and journals including ICLR, ICCV, ECCV, DAC, ICCAD, and TODAES. 
 
-<font color="#0000dd">Yifan is on the 2024 job market, please feel free to contact if you are interested!</font><br /> 
-<br>
+<font color="#0000dd">Yifan is on the 2024 job market, please feel free to contact if you are interested!</font>
 
 ---
 ## Research Interests
@@ -18,7 +17,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 - Accelerations of Emerging Large-Scale Models for AIGC such as Diffusion Models and LLMs
 - Model Compression
 - Efficient and Robust Deep Learning
-<br>
+
 
 ---
 
