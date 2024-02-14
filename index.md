@@ -26,6 +26,18 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 ---
 
+
+## News and Updates
+- **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" in DAC'24!
+- **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
+- **Sep 2023:** One paper "HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception" is accepted in NeurIPS'23.
+- **July 2023:** One co-first-authored paper "MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference" is accepted in ICCAD'23.
+- **May 2023:** Glad to receive the College of Engineering Outstanding TA award.
+- **April 2023:** One paper "DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning" is accepted in ICML'23.
+- **Feb 2023:** One first-authored paper "Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge" is accepted in DAC'23.
+
+---
+
 ## Professional Experiences
 
 <div align="left">
@@ -63,13 +75,3 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 
 
----
-
-## News and Updates
-- **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" in DAC'24!
-- **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
-- **Sep 2023:** One paper "HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception" is accepted in NeurIPS'23.
-- **July 2023:** One co-first-authored paper "MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference" is accepted in ICCAD'23.
-- **May 2023:** Glad to receive the College of Engineering Outstanding TA award.
-- **April 2023:** One paper "DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning" is accepted in ICML'23.
-- **Feb 2023:** One first-authored paper "Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge" is accepted in DAC'23.
