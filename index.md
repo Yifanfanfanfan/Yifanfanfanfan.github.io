@@ -13,7 +13,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 - Hardware and Software Co-Design for Artificial Intelligence Acceleration
 - Energy-Efficient Deep Learning and Artificial Intelligence Systems
-- Accelerations of Emerging Large-Scale Models for AIGC such as Diffusion Models and LLMs
+- Accelerations of Emerging Large-Scale Models for AIGC
 - Model Compression
 - Efficient and Robust Deep Learning
 
