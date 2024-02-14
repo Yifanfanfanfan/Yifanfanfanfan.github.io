@@ -11,7 +11,6 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 <br>
 
 ---
-
 ## Research Interests
 
 - Hardware and Software Co-Design for Artificial Intelligence Acceleration
@@ -19,9 +18,6 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 - Accelerations of Emerging Large-Scale Models for AIGC such as Diffusion Models and LLMs
 - Model Compression
 - Efficient and Robust Deep Learning
-
-
-
 <br>
 
 ---
