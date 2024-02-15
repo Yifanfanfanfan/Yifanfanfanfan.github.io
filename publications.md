@@ -58,7 +58,6 @@ Computing (TMC), 2021
 - Geng Yuan, Xiaolong Ma, Wei Niu, Zhengang Li, Zhenglun Kong, Ning Liu,
 **Yifan Gong**, Zheng Zhan, Chaoyang He, Qing Jin, Siyue Wang, Minghai Qin, Bin Ren, Yanzhi Wang, Sijia Liu, Xue Lin, ["Mest: Accurate and fast memory-economic sparse training framework on the edge"](https://proceedings.neurips.cc/paper_files/paper/2021/file/ae3f4c649fb55c2ee3ef4d1abdb79ce5-Paper.pdf), in Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
-
 - Peiyan Dong, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Zhengang Li, **Yifan Gong**,  Bin Ren, Xue Lin, Dingwen Tao, ["RTMobile: Beyond Real-Time Mobile Acceleration of RNNs for Speech Recognition"](https://arxiv.org/pdf/2002.11474.pdf), in Design Automation Conference (DAC), 2022.
 
 
