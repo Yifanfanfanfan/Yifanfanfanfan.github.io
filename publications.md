@@ -48,6 +48,8 @@ Computing (TMC), 2021
 - Zifeng Wang *, Zheng Zhan *, **Yifan Gong**, Yucai Shao, Stratis Ioannidis, Yanzhi Wang, Jennifer Dy, ["DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning"](https://arxiv.org/pdf/2305.00380.pdf), in International Conference on Machine Learning (ICML), 2023.
   
 - Sizhe Chen, Geng Yuan, Xinwen Cheng, **Yifan Gong**, Minghai Qin, Yanzhi Wang, Xiaolin Huang, ["Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors"](https://arxiv.org/pdf/2211.12005.pdf), in International Conference on Learning Representations (ICLR), 2023.
+
+- Peiyan Dong, Zhenglun Kong, Xin Meng, Pinrui Yu, **Yifan Gong**, Geng Yuan, Hao Tang, Yanzhi Wang, ["HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception"](https://openreview.net/pdf?id=3Cj67k38st), in Conference on Neural Information Processing Systems (NeurIPS), 2023.
   
 - Zifeng Wang *, Zheng Zhan *, **Yifan Gong**, Geng Yuan, Wei Niu, Tong Jian, Bin Ren, Stratis Ioannidis, Yanzhi Wang, Jennifer Dy, ["Sparcl: Sparse continual learning on the edge"](https://proceedings.neurips.cc/paper_files/paper/2022/file/80133d0f6eccaace15508f91e3c5a93c-Paper-Conference.pdf), in Conference on Neural Information Processing Systems (NeurIPS), 2022.
   
