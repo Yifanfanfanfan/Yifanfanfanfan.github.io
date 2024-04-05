@@ -22,6 +22,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 
 ## News and Updates
+-**March 2024:** Our research paper titled “Reverse Engineering Deceptions in Machine- and Human-Centric Attacks” has been officially published in Foundations and Trends® in Privacy and Security.
 - **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in DAC'24!
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
 - **Sep 2023:** One paper "HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception" is accepted in NeurIPS'23.
