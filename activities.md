@@ -19,7 +19,8 @@ title: Activities&Services
 
 ## Selected Scholarship, Honors and Awards
 
-- ICCAD Travel Award, 2023
+- DAC Young Fellow, 2024
+- ICCAD Student Scholar Award, 2023
 - College of Engineering Outstanding TA Awards of Northeastern University, 2023 
 - College of Engineering Dean’s Fellowship of Northeastern University, 2019-2020
 - ECE Student Fellowship of the University of Toronto, 2017-2019
