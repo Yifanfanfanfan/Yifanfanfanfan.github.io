@@ -30,7 +30,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 - **July 2023:** One co-first-authored paper ["MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference"](https://ieeexplore.ieee.org/abstract/document/10323882) is accepted in ICCAD'23.
 - **May 2023:** Glad to receive the College of Engineering Outstanding TA award.
 - **April 2023:** One paper ["DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning"](https://arxiv.org/pdf/2305.00380.pdf) is accepted in ICML'23.
-- **Feb 2023:** One first-authored paper ["Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge"](Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge"](https://ieeexplore.ieee.org/abstract/document/10247713) is accepted in DAC'23.
+- **Feb 2023:** One first-authored paper ["Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge"](https://ieeexplore.ieee.org/abstract/document/10247713) is accepted in DAC'23.
 
 ---
 
