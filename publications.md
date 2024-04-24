@@ -37,11 +37,13 @@ Learning Clusters"](https://www.researchgate.net/profile/Yifan-Gong-4/publicatio
 
 ## Journal Paper
 
+- Yuguang Yao, Xiao Guo, Vishal Asnani, **Yifan Gong**, Jiancheng Liu, Xue Lin, Xiaoming Liu, Sijia Liu, ["Reverse Engineering of Deceptions on Machine- and Human-Centric Attacks"](https://www.nowpublishers.com/article/Details/SEC-039), in Foundations and Trends® in Privacy and Security (**FnT**), 2024.
+
 - **Yifan Gong**, Geng Yuan, Zheng Zhan, Wei Niu, Zhengang Li, Pu Zhao, Yuxuan Cai, Sijia Liu, Bin Ren, Xue Lin, Xulong Tang, Yanzhi Wang, ["Automatic Mapping of the Best-Suited DNN Pruning Schemes for Real-
-Time Mobile Acceleration"](https://arxiv.org/pdf/2111.11581.pdf), in ACM Transactions on Design Automation of Electronic Systems (TODAES), 2021.
+Time Mobile Acceleration"](https://arxiv.org/pdf/2111.11581.pdf), in ACM Transactions on Design Automation of Electronic Systems (**TODAES**), 2021.
 
 - Tong Jian, **Yifan Gong**, Zheng Zhan, Runbin Shi, Nasim Soltani, Zifeng Wang, Jennifer Dy, Kaushik Chowdhury, Yanzhi Wang, Stratis Ioannidis, ["Radio Frequency Fingerprinting on the Edge"](https://par.nsf.gov/servlets/purl/10293165), in IEEE Transactions on Mobile
-Computing (TMC), 2021
+Computing (**TMC**), 2021.
 
 ## Other Publications
 
