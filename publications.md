@@ -12,7 +12,7 @@ Lastest Update: 1st May 2024&nbsp;
 
 ## First-Authored Conference Paper
 
-- **Yifan Gong**, Zheng Zhan, Qing Jin, Yanyu Li, Yerlan Idelbayev, Xian Liu, Andrey Zharkov, Kfir Aberman, Sergey Tulyakov, Yanzhi Wang, Jian Ren [“E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation”](https://arxiv.org/abs/2401.06127), in International Conference on Machine Learning (**ICML**), 2024 <br>
+- **Yifan Gong**, Zheng Zhan, Qing Jin, Yanyu Li, Yerlan Idelbayev, Xian Liu, Andrey Zharkov, Kfir Aberman, Sergey Tulyakov, Yanzhi Wang, Jian Ren [“E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation”](https://arxiv.org/abs/2401.06127), in International Conference on Machine Learning (**ICML**), 2024. <br>
 
 
 - **Yifan Gong**, Yushu Wu, Zheng Zhan, Pu Zhao, Liangkai Liu, Chao Wu, Xulong Tang, Yanzhi Wang "LOTUS: Learning-Based Online Thermal and Latency Variation Management for Two-Stage Detectors on Edge Devices", in Design Automation Conference (**DAC**), 2024. <br>
