@@ -23,7 +23,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 ## News and Updates
 - **May 2024:** Honored to be awarded as 2024 **<font color="#0000dd">ML and Systems Rising Star</font>**!
-- **May 2024:** One first-authored paper ["E$^2$GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in ICML'24. Thank you, team!
+- **May 2024:** One first-authored paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in ICML'24. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
 - **April 2024:** Selected as DAC Young Fellow.
 - **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® in Privacy and Security.
