@@ -23,11 +23,11 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 ## News and Updates
 - **May 2024:** Honored to be awarded as 2024 **<font color="#0000dd">ML and Systems Rising Star</font>**!
-- **May 2024:** One first-authored paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in ICML'24. Thank you, team!
+- **May 2024:** One first-authored paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
 - **April 2024:** Selected as DAC Young Fellow.
-- **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® in Privacy and Security.
-- **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in DAC'24!
+- **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® (**FnT**) in Privacy and Security.
+- **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in **DAC'24**!
   
 <!--
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
