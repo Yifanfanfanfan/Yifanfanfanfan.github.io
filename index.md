@@ -28,12 +28,15 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 - **April 2024:** Selected as DAC Young Fellow.
 - **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® in Privacy and Security.
 - **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in DAC'24!
+  
+<!--
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
 - **Sep 2023:** One paper ["HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception"](https://openreview.net/pdf?id=3Cj67k38st) is accepted in NeurIPS'23.
 - **July 2023:** One co-first-authored paper ["MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference"](https://ieeexplore.ieee.org/abstract/document/10323882) is accepted in ICCAD'23.
 - **May 2023:** Glad to receive the College of Engineering Outstanding TA award.
 - **April 2023:** One paper ["DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning"](https://arxiv.org/pdf/2305.00380.pdf) is accepted in ICML'23.
 - **Feb 2023:** One first-authored paper ["Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge"](https://ieeexplore.ieee.org/abstract/document/10247713) is accepted in DAC'23.
+-->
 
 ---
 
