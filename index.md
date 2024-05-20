@@ -4,7 +4,7 @@ layout: page
 
 # Biography
 
-Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/#_ga=2.133348103.863566394.1694570386-1581901161.1692209067). She received the B.S. degree (with the highest honor) in Telecommunications Engineering from Xidian University in 2017 and the M.A.Sc. degree (with fellowship) in Computer Engineering from the University of Toronto in 2019. Her research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations by a hardware and software co-design approach. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks such as large-scale models for AI-generated content. Yifan's works (first-authored) have been published in top-tier conferences and journals including ICML, ICLR, ICCV, ECCV, DAC, ICCAD, and TODAES. 
+Welcome! **Yifan (Evelyn) Gong** is a fifth-year Ph.D. candidate in the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/#_ga=2.133348103.863566394.1694570386-1581901161.1692209067). She received the B.S. degree (with the highest honor) in Telecommunications Engineering from Xidian University in 2017 and the M.A.Sc. degree (with fellowship) in Computer Engineering from the University of Toronto in 2019. Her research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations by a hardware and software co-design approach. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks such as large-scale models for AI-generated content. Yifan's works (first-authored) have been published in top-tier conferences and journals including ICML, ICLR, ICCV, ECCV, DAC, ICCAD, and TODAES. 
 
 <font color="#0000dd">Yifan is on the 2024 job market, please feel free to contact if you are interested!</font>
 
@@ -23,6 +23,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year PhD candidate in the Department
 
 ## News and Updates
 - **May 2024:** Honored to be awarded as 2024 [**<font color="#0000dd">ML and Systems Rising Star</font>**](https://mlcommons.org/about-us/programs/)!
+- **May 2024:** I have been selected to attend the [DAC Ph.D. Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
 - **May 2024:** One first-authored paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
 - **April 2024:** Selected as DAC Young Fellow.
