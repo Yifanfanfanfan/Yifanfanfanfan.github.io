@@ -16,9 +16,10 @@ title: Activities&Services
 - "Automatic Mapping of the Best-Suited DNN Pruning Schemes for Real-Time Mobile Acceleration", in ROAD4NN @ DAC’21.
 - "A Privacy-Preserving-Oriented DNN Pruning and Mobile Acceleration Framework", @ GLSVLSI’20.
 - ["Towards Best Possible Deep Learning Acceleration on the Edge - A Compression-Compilation Co-Design Framework"](https://sc20.mghpcc.org/talk/towards-best-possible-deep-learning-acceleration-on-the-edge-a-compression-compilation-co-design-framework/), in MGHPCC @ SC’20.
+- ["A Privacy-Preserving-Oriented DNN Pruning and Mobile Acceleration Framework"](https://bostonarch.github.io/2020/) @ Boston Area Architecture Worshop (BARC)'20.
 
 ## Selected Scholarship, Honors and Awards
-
+- ML and Systems Rising Star, 2024
 - DAC Young Fellow, 2024
 - ICCAD Student Scholar Award, 2023
 - College of Engineering Outstanding TA Awards of Northeastern University, 2023 
