@@ -22,7 +22,7 @@ Welcome! **Yifan (Evelyn) Gong** is a fifth-year Ph.D. candidate in the Departme
 
 
 ## News and Updates
-- **May 2024:** Honored to be awarded as 2024 [**<font color="#0000dd">ML and Systems Rising Star</font>**](https://mlcommons.org/about-us/programs/)!
+- **May 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">ML and Systems Rising Star</font>**](https://mlcommons.org/about-us/programs/)!
 - **May 2024:** I have been selected to attend the [DAC Ph.D. Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
 - **May 2024:** One first-authored paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
