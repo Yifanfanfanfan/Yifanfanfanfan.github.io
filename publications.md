@@ -12,6 +12,12 @@ Lastest Update: 1st May 2024&nbsp;
 
 ## First-Authored Conference Paper
 
+- Chao Wu *, **Yifan Gong** *, Liangkai Liu *, Mengquan Li, Yushu Wu, Xuan Shen, Zhimin Li, Geng Yuan,
+Weisong Shi and Yanzhi Wang, "AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet
+Efficient Real-Time Object Detection on the Edge", in International Conference on Computer-Aided Design (**ICCAD**), 2024. <br>
+
+
+
 - **Yifan Gong**, Zheng Zhan, Qing Jin, Yanyu Li, Yerlan Idelbayev, Xian Liu, Andrey Zharkov, Kfir Aberman, Sergey Tulyakov, Yanzhi Wang, Jian Ren [“E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation”](https://arxiv.org/abs/2401.06127), in International Conference on Machine Learning (**ICML**), 2024. <br>
 
 
