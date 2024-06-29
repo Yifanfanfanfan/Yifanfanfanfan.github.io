@@ -19,8 +19,10 @@ title: Activities&Services
 - ["A Privacy-Preserving-Oriented DNN Pruning and Mobile Acceleration Framework"](https://bostonarch.github.io/2020/) @ Boston Area Architecture Worshop (BARC)'20.
 
 ## Selected Scholarship, Honors and Awards
+- First Place of DAC Ph.D. Forum, 2024
 - ML and Systems Rising Star, 2024
-- DAC Young Fellow, 2024
+- DAC Young Fellowship, 2024
+- Travel Grants from CVPR, ICML
 - ICCAD Student Scholar Award, 2023
 - College of Engineering Outstanding TA Awards of Northeastern University, 2023 
 - College of Engineering Dean’s Fellowship of Northeastern University, 2019-2020
