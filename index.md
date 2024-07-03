@@ -13,9 +13,9 @@ Welcome! **Yifan (Evelyn) Gong** is a final year Ph.D. candidate in the Departme
 ---
 ## Research Interests
 
+- Accelerations of Emerging Large-Scale Models for AIGC
 - Hardware and Software Co-Design for Artificial Intelligence Accelerations
 - Energy-Efficient Deep Learning and Artificial Intelligence Systems
-- Accelerations of Emerging Large-Scale Models for AIGC
 - Model Compression
 - Efficient and Robust Deep Learning
 
@@ -24,17 +24,18 @@ Welcome! **Yifan (Evelyn) Gong** is a final year Ph.D. candidate in the Departme
 
 
 ## News and Updates
+- **July 2024:** Our paper "Efficient Training with Denoised Neural Weights" is accepted in **ECCV'24**.
 - **June 2024:** I won  **<font color="#0000dd">First Place</font>** at [**<font color="#0000dd">DAC Ph.D. Forum </font>**](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)!
-- **June 2024:** One co-first-authored paper "AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet
+- **June 2024:** Our paper "AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet
 Efficient Real-Time Object Detection on the Edge" is accepted in **ICCAD'24**.
 - **June 2024:** I'll serve as the program committee member for the [4th Workshop on Multimodal AI](https://www.comstar-tech.org/workshops/2024/workshop_2024_MMAI.html) (**MMAI 2024**).
 - **May 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">ML and Systems Rising Star</font>**](https://mlcommons.org/about-us/programs/)!
 - **May 2024:** I have been selected to attend the [DAC Ph.D. Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
-- **May 2024:** One first-authored paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
+- **May 2024:** Our paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
 - **April 2024:** Selected as DAC Young Fellow.
 - **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® (**FnT**) in Privacy and Security.
-- **Feb 2024:** One first-authored paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in **DAC'24**!
+- **Feb 2024:** Our paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in **DAC'24**!
   
 <!--
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
