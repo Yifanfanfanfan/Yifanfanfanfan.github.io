@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+
+
+<!-- === Header Starts === -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="description" content="Efficient Training with Denoised Neural Weights Project Page">
+
+  <title>Efficient Training with Denoised Neural Weights</title>
+
+  <link href="./static/css/bootstrap.min.css" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <!-- <script src="./static/js/bulma-slider.min.js"></script> -->
+  <script src="./static/js/index.js"></script>
+
+  <link href="./static/css/font.css" rel="stylesheet" type="text/css">
+  <link href="./static/css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<!-- === Header Ends === -->
+
+
+<body>
+
+
+<!-- === Home Section Starts === -->
+<div class="section">
+  <!-- === Title Starts === -->
+  <div class="header">
+    <!-- <div class="logo">
+      <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank"><img src="./common/cuhk.jfif"></a>
+    </div> -->
+    <div class="title", style="font-size: 24pt; padding-top: 10pt;">  <!-- Set padding as 10 if title is with two lines. -->
+     Efficient Training with Denoised Neural Weights
+		<!-- <br>
+		<font color="grey" size="4">arXiv Preprint.</font> -->
+    </div>
+  </div>
+  <!-- === Title Ends === -->
+  <div class="author">
+    <a href="https://yifanfanfanfan.github.io/">Yifan Gong</a><sup>1,2</sup> &nbsp &nbsp </span>
+    <span class="author-block">
+      <a href="https://zhanzheng8585.github.io/">Zheng Zhan</a><sup>2</i></sup> &nbsp &nbsp </span>
+    <span class="author-block">
+      <a href="https://www.linkedin.com/in/yanyu-li-2216aa17b/">Yanyu Li</a><sup>1,2</sup> &nbsp &nbsp </span>
+    <span class="author-block">
+      <a href="https://www.linkedin.com/in/yerlan-idelbayev/">Yerlan Idelbayev</a><sup>1</sup>&nbsp &nbsp</span>
+      <span class="author-block">
+          <a href="https://www.linkedin.com/in/asmekal/">Andrey Zharkov</a><sup>1</sup>&nbsp &nbsp</span>
+          <span class="author-block">
+            <a href="https://kfiraberman.github.io/">Kfir Aberman</a><sup>1</sup>&nbsp &nbsp</span>
+            <span class="author-block">
+              <a href="http://www.stulyakov.com/">Sergey Tulyakov</a><sup>1</sup>&nbsp &nbsp</span>
+              <span class="author-block">
+                <a href="https://web.northeastern.edu/yanzhiwang/">Yanzhi Wang</a><sup>2</sup>&nbsp &nbsp</span>
+                <span class="author-block">
+                  <a href="https://alanspike.github.io/">Jian Ren</a><sup>1</sup></span>
+  </div>
+  <div class="institution">
+    <sup>1</sup>Snap Inc.&nbsp;&nbsp;&nbsp;
+    <sup>2</sup>Northeastern University&nbsp;&nbsp;&nbsp;
+  </div>
+
+  <div class="column has-text-centered">
+    <div class="publication-links">
+      <!-- PDF Link. -->
+      <span class="link-block">
+        <a href=".content/icml_e2gan_arxiv.pdf" class="external-link button is-normal is-rounded is-dark">
+          <span class="icon">
+            <i class="fas fa-file-pdf"></i>
+          </span>
+          <span>Paper</span>
+        </a>
+      </span>
+      <span class="link-block">
+        <a href="https://arxiv.org/abs/2401.06127" class="external-link button is-normal is-rounded is-dark">
+          <span class="icon">
+            <i class="ai ai-arxiv"></i>
+          </span>
+          <span>arXiv</span>
+        </a>
+      </span>
+      <!-- Video Link. -->
+      <span class="link-block">
+        <a href="https://www.youtube.com/watch?v=uGFWVT_qm9Q"
+          class="external-link button is-normal is-rounded is-dark">
+          <span class="icon">
+            <i class="fab fa-youtube"></i>
+          </span>
+          <span> Video </span>
+        </a>
+      </span>
+      <!-- Code Link. -->
+      <span class="link-block">
+        <a href="https://github.com/Yifanfanfanfan/Yifanfanfanfan.github.io/tree/main/e2gan"
+          class="external-link button is-normal is-rounded is-dark">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+          <span>Github</span>
+        </a>
+      </span>
+      <!-- Dataset Link.
+      <span class="link-block">
+        <a href="./#BibTeX" class="external-link button is-normal is-rounded is-dark">
+          <span class="icon">
+            <i class="fa fa-quote-left"></i>
+          </span>
+          <span>Cite</span>
+        </a> -->
+    </div>
+
+  </div>
+  
+  <div class="body">
+
+    <!-- Adjust the number of rows and columns (EVERY project differs). -->
+    <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <tr>
+        <td><img src="./static/images/framework_overview.jpg" width="90%"></td>
+      </tr>
+    </table>
+    The <b>framework overview</b> of our weight generator design. The standard diffusion process turns an image into noise in the forward pass and reverses a clean image from pure noise in the reverse process. Our weight generator is designed to turn a noise to weight initializations for efficient training purposes. Given the text information and block index, the weight generator provides the corresponding weight values. 
+  </div>
+  <!-- <div class="link">
+    <a href="https://arxiv.org/pdf/2212.02350.pdf" target="_blank">[Paper]</a>&nbsp;
+    <a href="https://github.com/alvinliu0/ANGIE" target="_blank">[Code]</a>&nbsp;
+    <a href="https://github.com/alvinliu0/ANGIE" target="_blank">[Dataset]</a>
+  </div> -->
+  
+  </div>
+<!-- === Home Section Ends === -->
+
+<!-- === Result Section Starts === -->
+<!-- === Result Section Ends === -->
+<div class="section">
+	<div class="title">Presentation Video </div>
+	<div class="body">
+  
+	  We show the presentation video, mostly with overview of motivations, our framework design, and visualization results.
+  
+    <div class="publication-video">
+      <iframe src="https://www.youtube.com/embed/uGFWVT_qm9Q" title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- === Overview Section Starts === -->
+<div class="section">
+  <div class="title">Abstract</div>
+  <div class="body">
+    Good weight initialization serves as an effective measure to
+    reduce the training cost of a deep neural network (DNN) model. The
+    choice of how to initialize parameters is challenging and may require
+    manual tuning, which can be time-consuming and prone to human error.
+    To overcome such limitations, this work takes a novel step towards building a weight generator to synthesize the neural weights for initialization.
+    We use the image-to-image translation task with generative adversarial networks (GANs) as an example due to the ease of collecting model
+    weights spanning a wide range. Specifically, we first collect a dataset with
+    various image editing concepts and their corresponding trained weights,
+    which are later used for the training of the weight generator. To address
+    the different characteristics among layers and the substantial number
+    of weights to be predicted, we divide the weights into equal-sized blocks
+    and assign each block an index. Subsequently, a diffusion model is trained
+    with such a dataset using both text conditions of the concept and the
+    block indexes. By initializing the image translation model with the denoised weights predicted by our diffusion model, the training requires
+    only 43.3 seconds. Compared to training from scratch (i.e., Pix2pix),
+    we achieve a 15× training time acceleration for a new concept while
+    obtaining even better image generation quality.
+  </div>
+  
+</div>
+
+<!-- === Overview Section Ends === -->
+
+<div class="section">
+  <div class="title">Model Architecture Overview</div>
+  <div class="body">
+
+    <!-- Adjust the number of rows and columns (EVERY project differs). -->
+    <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <tr>
+        <td><img src="./static/images/model_arch.jpg" width="85%"></td>
+      </tr>
+    </table>
+   <b> The UNet Weight Generator </b>>. The
+    weight generator is composed of 1-d ResBlocks and
+    1-d Transformer blocks. The block embedding embn
+    is combined with the time step embedding emdt to
+    be leveraged in each ResBlock.
+  </div>
+</div>
+
+<!-- === Result Section Starts === -->
+<div class="section">
+  <div class="title">Qualitative Comparisons on Various Tasks</div>
+  <div class="body">
+    <!-- Adjust the number of rows and columns (EVERY project differs). -->
+    <!-- <table width="100%" style="margin: 20pt 0; text-align: center;"> -->
+      <div class="container" height=1000px>
+        <!-- The leftmost column shows two original images and the remaining columns present the corresponding synthesized images in the target concept domain, where target prompts are shown at the bottom row.  -->
+        <div id="results-carousel2" class="carousel2 results-carousel">
+          <div class="card-image" style="text-align: center;">
+            <img src="./static/images/main_qualitive.jpg" height="70%">
+          </div>
+          <div class="card-image" style="text-align: center;">
+            <img src="./static/images/appendix_1.jpeg" height="70%">
+          </div>
+          <div class="card-image" style="text-align: center;">
+            <img src="./static/images/appendix_2.jpeg" height="70%">
+          </div>
+          <div class="card-image" style="text-align: center;">
+            <img src="./static/images/appendix_3.jpeg" height="70%">
+          </div>
+          <div class="card-image" style="text-align: center;">
+            <img src="./static/images/appendix_4.jpeg" height="90%">
+          </div>
+          <div class="card-image" style="text-align: center;">
+            <img src="./static/images/appendix_5.jpeg" height="90%">
+          </div>
+        </div>
+      </div>
+    <!-- </table> -->
+  
+  </div>
+</div>
+<!-- === Result Section Ends === -->
+
+
+
+<!-- === Result Section Starts === -->
+<div class="section">
+  <div class="title">Quantitative Results</div>
+  <div class="body">
+
+    <!-- Adjust the number of rows and columns (EVERY project differs). -->
+    <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <tr>
+        <td><img src="./static/images/experimental_results.jpg" width="45%"></td>
+      </tr>
+    </table>
+    <b>FID and time consumption comparison</b>. FID is calculated between the images generated by GAN-based approaches and diffusion models. Reported FID is averaged across different concepts in the test prompt dataset.
+    <br>
+    <br>
+    <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <tr>
+        <td><img src="./static/images/fid_curve.jpg" width="80%"></td>
+      </tr>
+    </table>
+    The FID performance comparison between our method and baseline methods along with the training process on the test dataset for different concepts/styles.
+    <br>
+    <br>
+    <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <tr>
+        <table><tr>
+          <td><img src="./static/images/blk_size_ablation.jpg" width="80%" border=0></td>
+          <td><img src="./static/images/rule_ablation.jpg" width="75%" border=0></td>
+          </tr></table>
+      </tr>
+    </table>
+    <b>Left</b>: Ablation study on block size for weight division. <b>Right</b>: Ablation study on weight grouping.
+  </div>
+</div>
+<!-- === Result Section Ends === -->
+
+
+
+<!-- === Result Section Starts === -->
+<!-- <div class="section">
+  <div class="title">More Qualitative Results (1024x1024)</div>
+  <div class="body"> -->
+
+    <!-- Adjust the number of rows and columns (EVERY project differs). -->
+    <!-- <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <div class="container" width=1000px>
+        <div id="results-carousel" class="carousel results-carousel">
+          <div class="item item-clevr" style="text-align: center;">
+            <img src="./content/our_more1.png" width="90%">
+          </div>
+          <div class="item item-clevr" style="text-align: center;">
+            <img src="./content/our_more2.png" width="90%">
+          </div>
+          <div class="item item-clevr" style="text-align: center;">
+            <img src="./content/our_more3.png" width="90%">
+          </div>
+        </div>
+      </div> -->
+
+      <!-- <tr>
+        <td><img src="./content/our_more1.png" width="90%"></td>
+      </tr> -->
+    <!-- </table>
+  
+  </div>
+</div> -->
+<!-- === Result Section Ends === -->
+
+  <!-- Reference. -->
+  <div class="section">
+    <h2 class="title" style="text-align: center;">Reference</h2>
+    <p>[<a href="https://arxiv.org/pdf/1611.07004.pdf">1</a>]&nbsp;Image-to-Image Translation with Conditional Adversarial Networks</p>
+    <p>[<a href="https://arxiv.org/pdf/2103.10428.pdf">2</a>]&nbsp;Large Scale Image Completion via Co-Modulated Generative Adversarial Networks</p>
+    <p>[<a href="https://pix2pixzero.github.io/">3</a>]&nbsp;Zero-shot Image-to-Image Translation</p>
+  </div>
+  <!--/ Reference. -->
+
+<!-- === Reference Section Starts === -->
+<div class="section">
+  <div class="bibtex">BibTeX</div>
+<pre>
+@article{gong20242,
+  title={Efficient Training with Denoised Neural Weights},
+  author={Gong, Yifan and Zhan, Zheng and Li, Yanyu and Idelbayev, Yerlan and Zharkov, Andrey and Aberman, Kfir and Tulyakov, Sergey and Wang, Yanzhi and others},
+  journal={arXiv preprint arXiv:2401.06127},
+  year={2024}
+}
+</pre>
+
+
+</body>
+</html>
