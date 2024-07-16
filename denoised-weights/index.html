@@ -281,6 +281,25 @@
 <!-- === Result Section Ends === -->
 
 
+<!-- === Result Section Starts === -->
+<div class="section">
+  <div class="title">Generated Images and Trained Weights Dataset</div>
+  <div class="body">
+    In order to effectively train a weight generator for generating weight initializations of GAN models across various concepts, we need to collect a large-scale ground-truth weight value dataset for different concepts. To obtain the ground-truth weight value dataset, a large-scale prompt dataset becomes crucial. By using the concepts/styles in the prompt dataset, we can achieve image collection with diffusion models to obtain a substantial collection of images representative of each target concept. The images for each concept/style are further leveraged to train the GANs for the obtaining of the ground-truth GAN weights.
+    <!-- Adjust the number of rows and columns (EVERY project differs). -->
+    <table width="100%" style="margin: 20pt 0; text-align: center;">
+      <tr>
+        <td><img src="./static/images/prompt_example.jpg" width="45%"></td>
+      </tr>
+    </table>
+    Examples of collected <b>text prompts of concepts/styles</b>, generated with ChatGPT-3.5 and Vicuna.
+    <br>
+    
+    <br>
+  </div>
+</div>
+<!-- === Result Section Ends === -->
+
 
 <!-- === Result Section Starts === -->
 <!-- <div class="section">
