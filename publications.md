@@ -12,6 +12,9 @@ Lastest Update: 29th June 2024&nbsp;
 
 ## First-Authored Conference Paper
 
+- **Yifan Gong**, Zheng Zhan, Yanyu Li, Yerlan Idelbayev, Andrey Zharkov, Kfir Aberman, Sergey Tulyakov, Yanzhi Wang, Jian Ren [“Efficient Training with Denoised Neural Weights”](https://arxiv.org/pdf/2407.11966), in European Conference on Computer Vision (**ECCV**), 2024. <br>
+
+
 - Chao Wu *, **Yifan Gong** *, Liangkai Liu *, Mengquan Li, Yushu Wu, Xuan Shen, Zhimin Li, Geng Yuan,
 Weisong Shi and Yanzhi Wang, "AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet
 Efficient Real-Time Object Detection on the Edge", in International Conference on Computer-Aided Design (**ICCAD**), 2024. <br>
