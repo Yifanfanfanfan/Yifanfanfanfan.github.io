@@ -4,7 +4,7 @@ layout: page
 
 # Biography
 
-Welcome! **Yifan (Evelyn) Gong** is a final year Ph.D. candidate in the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/#_ga=2.133348103.863566394.1694570386-1581901161.1692209067). She received the B.S. degree (with the highest honor) in Telecommunications Engineering from Xidian University in 2017 and the M.A.Sc. degree (with fellowship) in Computer Engineering from the University of Toronto in 2019. Her research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations by a hardware and software co-design approach. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks such as large-scale models for AI-generated content. Yifan's works (first-authored) have been published in top-tier conferences and journals including ICML, ICLR, ICCV, ECCV, DAC, ICCAD, and TODAES. 
+Welcome! **Yifan (Evelyn) Gong** is a final-year Ph.D. candidate in the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/#_ga=2.133348103.863566394.1694570386-1581901161.1692209067). She received the B.S. degree (with the highest honor) in Telecommunications Engineering from Xidian University in 2017 and the M.A.Sc. degree (with fellowship) in Computer Engineering from the University of Toronto in 2019. Her research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations by a hardware and software co-design approach. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks such as large-scale models for AI-generated content. Yifan's works (first-authored) have been published in top-tier conferences and journals including ICML, ICLR, ICCV, ECCV, DAC, ICCAD, and TODAES. 
 
 <!--
 <font color="#0000dd">Yifan is on the 2024 job market, please feel free to contact if you are interested!</font>
@@ -24,11 +24,11 @@ Welcome! **Yifan (Evelyn) Gong** is a final year Ph.D. candidate in the Departme
 
 
 ## News and Updates
+- **July 2024:** Received Northeastern PhD Network Travel Award. Thanks to Northeastern!
 - **July 2024:** Our paper "Efficient Training with Denoised Neural Weights" is accepted in **ECCV'24**.
 - **June 2024:** I won  **<font color="#0000dd">First Place</font>** at [**<font color="#0000dd">DAC Ph.D. Forum </font>**](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)!
 - **June 2024:** Our paper "AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet
 Efficient Real-Time Object Detection on the Edge" is accepted in **ICCAD'24**.
-- **June 2024:** I'll serve as the program committee member for the [4th Workshop on Multimodal AI](https://www.comstar-tech.org/workshops/2024/workshop_2024_MMAI.html) (**MMAI 2024**).
 - **May 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">ML and Systems Rising Star</font>**](https://mlcommons.org/about-us/programs/)!
 - **May 2024:** I have been selected to attend the [DAC Ph.D. Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
 - **May 2024:** Our paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
@@ -38,6 +38,7 @@ Efficient Real-Time Object Detection on the Edge" is accepted in **ICCAD'24**.
 - **Feb 2024:** Our paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in **DAC'24**!
   
 <!--
+- **June 2024:** I'll serve as the program committee member for the [4th Workshop on Multimodal AI](https://www.comstar-tech.org/workshops/2024/workshop_2024_MMAI.html) (**MMAI 2024**).
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
 - **Sep 2023:** One paper ["HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception"](https://openreview.net/pdf?id=3Cj67k38st) is accepted in NeurIPS'23.
 - **July 2023:** One co-first-authored paper ["MOC: Multi-Objective Mobile CPU-GPU Co-optimization for Power-efficient DNN Inference"](https://ieeexplore.ieee.org/abstract/document/10323882) is accepted in ICCAD'23.
@@ -57,7 +58,7 @@ Efficient Real-Time Object Detection on the Edge" is accepted in **ICCAD'24**.
   <img src="images/snap_logo.jpeg" style="zoom:35%"  alt="图片名称"/>
 </td>
 <td>
-  <p> Snap Inc., Research Intern, May 2023 - Dec 2023  </p>
+  <p> Snap Inc., Research Intern, May 2023 - December 2023  </p>
   <p> </p>
 </td>
 </tr>
