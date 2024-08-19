@@ -24,12 +24,13 @@ Welcome! **Yifan (Evelyn) Gong** is a final-year Ph.D. candidate in the Departme
 
 
 ## News and Updates
+- **Aug 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">MIT EECS Rising Stars</font>**](https://risingstars-eecs.mit.edu/)!
 - **July 2024:** Received Northeastern PhD Network Travel Award. Thanks to Northeastern!
 - **July 2024:** Our paper "Efficient Training with Denoised Neural Weights" is accepted in **ECCV'24**.
-- **June 2024:** I won  **<font color="#0000dd">First Place</font>** at [**<font color="#0000dd">DAC Ph.D. Forum </font>**](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)!
+- **June 2024:** I won **<font color="#0000dd">First Place</font>** at [**<font color="#0000dd">DAC Ph.D. Forum </font>**](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)!
 - **June 2024:** Our paper "AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet
 Efficient Real-Time Object Detection on the Edge" is accepted in **ICCAD'24**.
-- **May 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">ML and Systems Rising Star</font>**]([https://mlcommons.org/about-us/programs/](https://mlcommons.org/2024/06/2024-mlc-rising-stars/))!
+- **May 2024:** Honored to be selected as the 2024 MLCommons [**<font color="#0000dd">ML and Systems Rising Stars</font>**](https://mlcommons.org/2024/06/2024-mlc-rising-stars/) held in NVIDIA HQ.
 - **May 2024:** I have been selected to attend the [DAC Ph.D. Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
 - **May 2024:** Our paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
