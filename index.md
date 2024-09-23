@@ -24,7 +24,7 @@ Welcome! **Yifan (Evelyn) Gong** is a final-year Ph.D. candidate in the Departme
 
 
 ## News and Updates
-- **Sep 2024：** We get one paper accepted in the main track of **EMNLP'24**!
+- **Sep 2024:** We get one paper accepted in the main track of **EMNLP'24**!
 - **Aug 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">MIT EECS Rising Stars</font>**](https://risingstars-eecs.mit.edu/)!
 - **July 2024:** Received Northeastern PhD Network Travel Award. Thanks to Northeastern!
 - **July 2024:** Our paper "Efficient Training with Denoised Neural Weights" is accepted in **ECCV'24**.
