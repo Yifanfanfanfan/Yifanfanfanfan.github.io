@@ -4,11 +4,7 @@ layout: page
 
 # Biography
 
-Welcome! I'm a research scientist/engineer at Adobe Research, working on efficient generative models. I received my Ph.D. degree from the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/#_ga=2.133348103.863566394.1694570386-1581901161.1692209067) in 2024. My research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks such as large-scale models for AI-generated content. My works (first-authored) have been published in top-tier conferences and journals including ICML, ICLR, NeurIPS, ICCV, ECCV, DAC, ICCAD, and TODAES. I'm honored to be selected as the 2024 Rising Star in EECS and the 2024 Machine Learning and Systems Rising Star. I also won first place at the DAC Ph.D. forum and received the College of Engineering's Outstanding Graduate Student award and Dean's fellowship from Northeastern University. 
-
-
-<font color="#0000dd">I am looking for motivated summer interns to work with me on efficient generative models, please feel free to contact me if you are interested!</font>
-
+Welcome! I'm a research scientist/engineer at Adobe Research, working on efficient generative models. I received my Ph.D. degree from the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) in 2024. My research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks, such as large-scale models for AI-generated content. I'm honored to be selected as the 2024 Rising Star in EECS and the 2024 Machine Learning and Systems Rising Star. I also won first place at the DAC Ph.D. forum and received the College of Engineering's Outstanding Graduate Student award and Dean's fellowship from Northeastern University. 
 
 ---
 ## Research Interests
