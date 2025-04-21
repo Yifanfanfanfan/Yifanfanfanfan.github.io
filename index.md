@@ -21,7 +21,7 @@ Welcome! I'm a research scientist/engineer at Adobe Research, working on efficie
 
 ## News and Updates
 - **Jan 2025:** One paper accepted in **ICLR'25**.
-- **Dec 2024:** One paper accepted in **AAAA'25**.
+- **Dec 2024:** One paper accepted in **AAAI'25**.
 - **Sep 2024:** We get three papers accepted in **NeurIPS'24**!
 - **Sep 2024:** We get one paper accepted in the main track of **EMNLP'24**!
 - **Aug 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">MIT EECS Rising Stars</font>**](https://risingstars-eecs.mit.edu/)!
