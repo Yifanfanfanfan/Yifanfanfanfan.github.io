@@ -4,7 +4,7 @@ layout: page
 
 # Biography
 
-Welcome! I'm a research scientist/engineer at Adobe Research, working on efficient generative models. I received my Ph.D. degree from the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) in 2024. My research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks, such as large-scale models for AI-generated content. I'm honored to be selected as the 2024 Rising Star in EECS and the 2024 Machine Learning and Systems Rising Star. I also won first place at the DAC Ph.D. forum and received the College of Engineering's Outstanding Graduate Student award and Dean's fellowship from Northeastern University. 
+Welcome! I'm a research scientist/engineer at Adobe Research, working on efficient generative models. I received my Ph.D. degree from the Department of Electrical and Computer Engineering at Northeastern University, supervised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) in 2024. My research vision is in general artificial intelligence systems to facilitate deep learning implementation on various edge devices and bridge the gap between algorithm innovations and hardware performance optimizations. It includes energy-efficient deep learning and artificial intelligence systems and accelerations of deep neural networks, such as large-scale models for AI-generated content. I'm honored to be selected as the 2024 Rising Star in EECS and the 2024 Machine Learning and Systems Rising Star. I also won first place at the DAC Ph.D. forum and received the College of Engineering's Outstanding Graduate Student Award and Dean's Fellowship from Northeastern University. 
 
 ---
 ## Research Interests
@@ -20,6 +20,8 @@ Welcome! I'm a research scientist/engineer at Adobe Research, working on efficie
 
 
 ## News and Updates
+- **Jan 2025:** One paper accepted in **ICLR'25**.
+- **Dec 2024:** One paper accepted in **AAAA'25**.
 - **Sep 2024:** We get three papers accepted in **NeurIPS'24**!
 - **Sep 2024:** We get one paper accepted in the main track of **EMNLP'24**!
 - **Aug 2024:** Honored to be selected as the 2024 [**<font color="#0000dd">MIT EECS Rising Stars</font>**](https://risingstars-eecs.mit.edu/)!
@@ -33,10 +35,11 @@ Efficient Real-Time Object Detection on the Edge" is accepted in **ICCAD'24**.
 - **May 2024:** Our paper ["E^2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation"](https://arxiv.org/pdf/2401.06127) is accepted in **ICML'24**. Thank you, team!
 - **April 2024:** Grateful to receive the travel grant from CVPR'24.
 - **April 2024:** Selected as DAC Young Fellow.
-- **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® (**FnT**) in Privacy and Security.
-- **Feb 2024:** Our paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in **DAC'24**!
+
   
 <!--
+- **March 2024:** Our research paper titled [“Reverse Engineering Deceptions in Machine- and Human-Centric Attacks”](https://www.nowpublishers.com/article/Details/SEC-039) has been officially published in Foundations and Trends® (**FnT**) in Privacy and Security.
+- **Feb 2024:** Our paper "Lotus: learning-based online thermal and latency variation management for two-stage detectors on edge devices" is accepted in **DAC'24**!
 - **June 2024:** I'll serve as the program committee member for the [4th Workshop on Multimodal AI](https://www.comstar-tech.org/workshops/2024/workshop_2024_MMAI.html) (**MMAI 2024**).
 - **Sep 2023:** Glad to receive ICCAD Student Scholar Grant.
 - **Sep 2023:** One paper ["HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception"](https://openreview.net/pdf?id=3Cj67k38st) is accepted in NeurIPS'23.
